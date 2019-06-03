@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>chamon1120 - Tbrain</title><link href="/" rel="alternate"></link><link href="/feeds/tbrain.atom.xml" rel="self"></link><id>/</id><updated>2016-11-27T22:19:00+09:00</updated><entry><title>ブログをPelicanに移行した</title><link href="/TB_pelican161127.html" rel="alternate"></link><published>2016-11-27T22:19:00+09:00</published><updated>2016-11-27T22:19:00+09:00</updated><author><name>chamon</name></author><id>tag:None,2016-11-27:/TB_pelican161127.html</id><summary type="html">&lt;p&gt;ブログをWordpressからPelicanに移行した。&lt;/p&gt;
+&lt;p&gt;Pelicanは静的なウェブサイトを作成するためのPythonパッケージだ。&lt;/p&gt;
+&lt;p&gt;ローカルで記事を書き、それをGithubにアップする。&lt;/p&gt;
+&lt;p&gt;以下のサイトを参考にした。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="http://blog.tekito.org/2013/12/16/setting-up-a-blog-with-pelican/" target="_blank"&gt;静的サイトジェネレータPelicanでBlogを書こう&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ローカルでの記事の作成までは上記サイトの通りにした。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="http://blog.sotm.jp/2014/01/04/Pelican-Markdown-GithubPages-install-guide/#github-pages_1" target="_blank"&gt;Pelican + Markdown + GitHub Pagesで管理するブログの作り方&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Githubページの設定と公開方法までは上記のサイトの通りにした。   ※レポジトリのプロジェクト名はかならず、[username].github.ioとする。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Gitの管理がいまいち理解できておらず、Githubにpushする際にpushできないエラーが出た。&lt;/p&gt;
+&lt;p&gt;解決策は見つからず、一からやり直してエラーはでなくなった。&lt;/p&gt;
+&lt;p&gt;Gitの理解ができていないので暇を見て勉強しなければいけない。&lt;/p&gt;</summary><content type="html">&lt;p&gt;ブログをWordpressからPelicanに移行した。&lt;/p&gt;
+&lt;p&gt;Pelicanは静的なウェブサイトを作成するためのPythonパッケージだ。&lt;/p&gt;
+&lt;p&gt;ローカルで記事を書き、それをGithubにアップする。&lt;/p&gt;
+&lt;p&gt;以下のサイトを参考にした。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="http://blog.tekito.org/2013/12/16/setting-up-a-blog-with-pelican/" target="_blank"&gt;静的サイトジェネレータPelicanでBlogを書こう&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ローカルでの記事の作成までは上記サイトの通りにした。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="http://blog.sotm.jp/2014/01/04/Pelican-Markdown-GithubPages-install-guide/#github-pages_1" target="_blank"&gt;Pelican + Markdown + GitHub Pagesで管理するブログの作り方&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Githubページの設定と公開方法までは上記のサイトの通りにした。   ※レポジトリのプロジェクト名はかならず、[username].github.ioとする。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Gitの管理がいまいち理解できておらず、Githubにpushする際にpushできないエラーが出た。&lt;/p&gt;
+&lt;p&gt;解決策は見つからず、一からやり直してエラーはでなくなった。&lt;/p&gt;
+&lt;p&gt;Gitの理解ができていないので暇を見て勉強しなければいけない。&lt;/p&gt;</content><category term="Pelican"></category><category term="Python"></category></entry></feed>
